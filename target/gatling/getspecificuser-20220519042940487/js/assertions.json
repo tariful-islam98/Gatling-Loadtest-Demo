@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetSpecificUser",
+  "simulationId": "getspecificuser",
+  "start": 1652934580487,
+  "description": "Get Specific User",
+  "scenarios": ["Get Specific user"],
+  "assertions": [
+
+  ]
+}

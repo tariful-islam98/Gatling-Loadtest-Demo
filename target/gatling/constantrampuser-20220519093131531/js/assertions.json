@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.ConstantRampUser",
+  "simulationId": "constantrampuser",
+  "start": 1652952691531,
+  "description": "Constant User",
+  "scenarios": ["Get all user"],
+  "assertions": [
+
+  ]
+}

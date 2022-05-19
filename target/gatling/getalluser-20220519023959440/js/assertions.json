@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.GetAllUser",
+  "simulationId": "getalluser",
+  "start": 1652927999440,
+  "description": "Get ALl User",
+  "scenarios": ["Get All Users"],
+  "assertions": [
+
+  ]
+}

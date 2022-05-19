@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.RampUser",
+  "simulationId": "rampuser",
+  "start": 1652953840081,
+  "description": "Fiddler Ramp",
+  "scenarios": ["Get all user"],
+  "assertions": [
+
+  ]
+}
